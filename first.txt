@@ -1,2 +1,1 @@
-first line
-hello
+tags are collection of code cluster, it may contain 1 commit or multiple commits, every tags contain an important message message by developer to organise the code effectively
